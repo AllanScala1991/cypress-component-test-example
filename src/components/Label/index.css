@@ -1,0 +1,12 @@
+.labelContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    width: 60%;
+    height: 3vh;
+    margin-top: 3vh;
+}
+
+.label{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

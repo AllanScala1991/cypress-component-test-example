@@ -1,0 +1,23 @@
+.buttonContainer {
+    width: 100%;
+    height: 6vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2vh;
+}
+
+.buttons {
+    width: 60%;
+    height: 5vh;
+    border: none;
+    border-radius: 0.5vh;
+    font-size: 2vh;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.buttons:hover {
+    cursor: pointer;
+}
+
